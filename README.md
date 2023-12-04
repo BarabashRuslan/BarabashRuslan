@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 👨‍💻 Glad to see you here!
 ---
-I am a beginner DATE analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I started my journey not so long ago, but I have already achieved good results
+I am a beginner Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I started my journey not so long ago, but I have already achieved good results
 
 I value sharing knowledge and staying up-to-date with technology. I chose data analytics because I enjoy studying data and seeing the results of my work through SQL code. I use online resources to improve my Hard Skills.
 
